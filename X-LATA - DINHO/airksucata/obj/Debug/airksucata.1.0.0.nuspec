@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>airksucata</id>
+    <version>1.0.0</version>
+    <title>AIRK-DigitalSolutions</title>
+    <authors>airksucataRICK SIQUEIRA COSTA</authors>
+    <icon>xlata.png</icon>
+    <description>É UM SISTEMA DE CONTROLE DE COMPRA DE MATERIAIS DE SUCATA NA BALANÇA.
+É UM SISTEMA PARA TORNAR O PROCESSO DE COMPRA MAIS RÁPIDO E EFICIENTE.
+USO EXCLUSIVO E AUTORIZADO DA AIRK DIGITAL.</description>
+    <copyright>ESSE SISTEMA FOI DESENVOLVIDO POR RICK COSTA, DONO DA AIRK DIGITAL SOLUTIONS 2023</copyright>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="ClosedXML" version="0.102.1" exclude="Build,Analyzers" />
+        <dependency id="Dapper" version="2.1.15" exclude="Build,Analyzers" />
+        <dependency id="EPPlus" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="EPPlus.Interfaces" version="6.1.1" exclude="Build,Analyzers" />
+        <dependency id="EPPlus.System.Drawing" version="6.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.13" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.13" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.1.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="RawPrint" version="0.5.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.5" exclude="Build,Analyzers" />
+        <dependency id="itext7" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="itext7.licensekey" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="itext7.pdfhtml" version="5.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/xlata.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\AIRKSUCATA - CLIENTES\v509\AIRKSUCATA V5.0.9 - 1024X1280 - XLATA\airksucata\obj\Debug\net6.0-windows\cs\airksucata.resources.dll" target="lib\net6.0-windows7.0\cs\airksucata.resources.dll" />
+    <file src="D:\AIRKSUCATA - CLIENTES\v509\AIRKSUCATA V5.0.9 - 1024X1280 - XLATA\airksucata\bin\Debug\net6.0-windows\airksucata.runtimeconfig.json" target="lib\net6.0-windows7.0\airksucata.runtimeconfig.json" />
+    <file src="D:\AIRKSUCATA - CLIENTES\v509\AIRKSUCATA V5.0.9 - 1024X1280 - XLATA\airksucata\bin\Debug\net6.0-windows\airksucata.dll" target="lib\net6.0-windows7.0\airksucata.dll" />
+    <file src="D:\AIRKSUCATA - CLIENTES\v509\AIRKSUCATA V5.0.9 - 1024X1280 - XLATA\airksucata\xlata.ico" target="content\xlata.ico" />
+    <file src="D:\AIRKSUCATA - CLIENTES\v509\AIRKSUCATA V5.0.9 - 1024X1280 - XLATA\airksucata\xlata.ico" target="contentFiles\any\net6.0-windows7.0\xlata.ico" />
+    <file src="D:\AIRKSUCATA - CLIENTES\v509\AIRKSUCATA V5.0.9 - 1024X1280 - XLATA\airksucata\xlata.png" target="\xlata.png" />
+  </files>
+</package>

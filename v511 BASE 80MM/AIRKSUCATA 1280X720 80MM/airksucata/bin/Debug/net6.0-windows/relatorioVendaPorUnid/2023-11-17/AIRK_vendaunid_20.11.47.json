@@ -1,0 +1,10 @@
+[
+  {
+    "Produto": "XXX",
+    "ValorUnit": "R$ 50,00",
+    "ValorVenda": "R$ 150,00",
+    "FormaPagamento": "PIX",
+    "Peso": "3,000",
+    "DataVenda": "2023-11-17T20:11:47.6070282-03:00"
+  }
+]

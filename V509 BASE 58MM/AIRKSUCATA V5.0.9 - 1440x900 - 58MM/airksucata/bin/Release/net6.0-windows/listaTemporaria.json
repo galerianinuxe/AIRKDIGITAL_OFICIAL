@@ -1,0 +1,14 @@
+[
+  {
+    "Material": "Lata",
+    "PesoTotal": 96.0,
+    "ValorKg": 6.87,
+    "TotalPagar": 659.52
+  },
+  {
+    "Material": "Cobre1",
+    "PesoTotal": 58.0,
+    "ValorKg": 39.0,
+    "TotalPagar": 2262.0
+  }
+]

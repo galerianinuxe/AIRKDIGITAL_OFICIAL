@@ -1,0 +1,26 @@
+[
+  {
+    "Material": "Panela Suja",
+    "PesoTotal": 2.6,
+    "ValorKg": 5.5,
+    "TotalPagar": 14.3
+  },
+  {
+    "Material": "Bateria",
+    "PesoTotal": 81.658,
+    "ValorKg": 3.88,
+    "TotalPagar": 316.83
+  },
+  {
+    "Material": "Estamparia",
+    "PesoTotal": 6.8,
+    "ValorKg": 5.6,
+    "TotalPagar": 38.08
+  },
+  {
+    "Material": "Lata",
+    "PesoTotal": 2.425,
+    "ValorKg": 5.5,
+    "TotalPagar": 13.34
+  }
+]

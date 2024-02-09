@@ -1,0 +1,38 @@
+[
+  {
+    "Material": "Caixaria Colorida",
+    "PesoTotal": 6551.0,
+    "ValorKg": 4.6,
+    "TotalPagar": 30134.6
+  },
+  {
+    "Material": "Metal",
+    "PesoTotal": 558.0,
+    "ValorKg": 22.5,
+    "TotalPagar": 12555.0
+  },
+  {
+    "Material": "Cobre3",
+    "PesoTotal": 6.0,
+    "ValorKg": 36.0,
+    "TotalPagar": 216.0
+  },
+  {
+    "Material": "Bateria",
+    "PesoTotal": 5.0,
+    "ValorKg": 6.3,
+    "TotalPagar": 31.5
+  },
+  {
+    "Material": "Bronze",
+    "PesoTotal": 9.0,
+    "ValorKg": 25.0,
+    "TotalPagar": 225.0
+  },
+  {
+    "Material": "Garrafinha Branca",
+    "PesoTotal": 6.0,
+    "ValorKg": 2.5,
+    "TotalPagar": 15.0
+  }
+]

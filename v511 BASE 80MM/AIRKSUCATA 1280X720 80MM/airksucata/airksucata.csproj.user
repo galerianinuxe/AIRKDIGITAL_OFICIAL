@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Ninuxe\Desktop\Projetos Novos - Visual Studio\AirkSucata.v2\airksucata\airksucata\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AIRKAlertaEdicaoMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKCalculatorSist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKCalculatorSist1024x768.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKFormAcrescPorcentagem.cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKFormAcrescValor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKFormResolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKFormTipoAcrescimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKInserirNome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKInserirVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKInserirVendaKg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKLoadSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKNomeSimOuNao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKNovoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKTipoDeVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AIRKVendaSalva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="confirmarDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddMaterialOLD.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="formComprovante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formComprovanteRelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formReimprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formVerificacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="relatorioVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
